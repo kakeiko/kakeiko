@@ -1,16 +1,21 @@
-## Hi there 👋
+# Guilherme Dutra
 
-<!--
-**kakeiko/kakeiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Back-End em formação, com foco em Python e Django para criação de APIs REST,
+autenticação, regras de negócio e integração com bancos de dados relacionais.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
+- Python
+- Django
+- APIs REST
+- PostgreSQL
+- MySQL
+- C#
+- .NET
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos em Destaque
+- 🔹 Sistema de Torneios (Django, PostgreSQL, N8N)
+- 🔹 Sistema de Inventário (.NET, API REST)
+
+🔗 LinkedIn: https://www.linkedin.com/in/guilherme-dutra-55559625a/
+
